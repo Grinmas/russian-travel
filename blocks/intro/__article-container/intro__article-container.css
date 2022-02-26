@@ -1,0 +1,16 @@
+.intro__article-container {
+  max-width: 690px;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+@media screen and (max-width: 768px) {
+  .intro__article-container {
+    width: 100%;
+  }
+}
+
+

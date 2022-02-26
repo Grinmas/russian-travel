@@ -1,0 +1,28 @@
+.photo {
+    margin: 92px auto 0 auto;
+    padding: 0;
+    max-width: 1184px;
+    width: 92.5vw;
+  }
+  
+  @media screen and (max-width: 1025px) {
+    .photo {
+      width: 90.62vw;
+    }
+  }
+  
+  @media screen and (max-width: 769px) {
+    .photo {
+      margin-top: 88px;
+      width: 93.75vw;
+    }
+  }
+  
+  @media screen and (max-width: 321px) {
+    .photo {
+      margin-top: 64px;
+      max-width: 288px;
+    }
+  }
+
+
