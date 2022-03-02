@@ -30,10 +30,10 @@
   }
   
   
-  @media screen and (max-width: 320px) {
+  @media screen and (max-width: 321px) {
     .places {
       margin-top: 64px;
-      max-width: 288px;
+      width: 100vw;
     }
   }
 

@@ -7,4 +7,9 @@
     align-items: flex-start;
   }
 
-
+@media screen and (max-width: 321px) {
+  .place__website {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}
